@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">နေ့စဉ် လှုပ်ရှား</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="header_text">နေ့စဉ် ကိုယ်လက်လှုပ်ရှားခြင်းဖြင့် ကျန်းမာရေးကို ပိုမိုကောင်းမွန်စေပါသည်။</string>
+    <string name="title_activity_work_out">ကိုယ်လက်လေ့ကျင့်ခန်း</string>
+    <string name="title_activity_animate">လှုပ်ရှားမှုများ</string>
+    <string name="start_btn">စတင်ပါ</string>
+    <string name="stop_btn">ရပ်တန့်ပါ</string>
+    <string name="favor_check">နှစ်သက်သည်</string>
+    <string name="drawer_about">အကြောင်းအရာ</string>
+    <string name="drawer_bmi">BMI တွက်ရန်</string>
+    <string name="drawer_shows">ကိုယ်လက်လှုပ်ရှားမှုများ</string>
+    <string name="drawer_quiz">သိမှတ်ဖွယ်ရာ</string>
+    <string name="drawer_centers">အားကစား စင်တာများ</string>
+    <string name="drawer_send">အကြံပြုရန်</string>
+    <string name="drawer_title">ဆက်သွယ်မှု</string>
+    <string name="drawer_daily">နေ့စဉ် လှုပ်ရှားမှု</string>
+    <string name="title_activity_about">အကြောင်းအရာ</string>
+    <string name="title_activity_bmi">BMI တွက်ခြင်း</string>
+    <string name="title_activity_show">ကိုယ်လက်လှုပ်ရှားမှုများ</string>
+    <string name="title_activity_daily">နေ့စဉ် လှုပ်ရှားမှု</string>
+    <string name="title_activity_quiz">သိမှတ်ဖွယ်ရာ</string>
+    <string name="title_activity_center">အားကစား စင်တာများ</string>
+    <string name="title_activity_send">အကြံပြုရန်</string>
+    <string name="title_activity_add_daily">နေ့စဉ် ကိုယ်လက်လှုပ်ရှားမှုများ</string>
+    <string name="workout_one">အိပ်ထ လေ့ကျင့်ခန်း</string>
+    <string name="workout_two">ဗွီပုံအိပ်ထ လေ့ကျင့်ခန်း</string>
+    <string name="workout_three">စက်ဘီးစီးပုံ လေ့ကျင့်ခန်း</string>
+    <string name="workout_four">ဘေးတိုက် လေ့ကျင့်ခန်း</string>
+    <string name="workout_five">ပခုံးစောင်း လေ့ကျင့်ခန်း</string>
+    <string name="save">သိမ်းဆည်းပါ</string>
+    <string name="choose_workout">တနေ့တာ လုပ်ဆောင်လိုသော လေ့ကျင့်ခန်းများကို ရွေးချယ်ပါ။</string>
+    <string name="age">အသက်</string>
+    <string name="weight">အလေးချိန်</string>
+    <string name="height">အရပ်</string>
+    <string name="male">ကျား</string>
+    <string name="female">မ</string>
+    <string name="calculate">တွက်ချက်ပါ</string>
+    <string name="bmi">ကိုယ်အလေးချိန် အညွှန်း</string>
+    <string name="bmr">ကိုယ်အလေးချိန် အခြေအနေ</string>
+    <string name="title_activity_show_center">အားကစား စင်တာ</string>
+    <string name="to">သို့</string>
+    <string name="thank_you">ယခုကဲ့သို့ အကြံပြုပေးခြင်းအတွက် ကျေးဇူးတင်ပါသည်။</string>
+    <string name="owner">ymksun90@gmail.com</string>
+    <string name="quiz_title">ခန္ဓာကိုယ် ကြံခိုင် ပြေပြစ်စေရန် လိုက်နာသင့်သော အချက်များ</string>
+</resources>
